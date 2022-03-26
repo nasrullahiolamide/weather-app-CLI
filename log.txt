@@ -1,0 +1,9 @@
+/** This is the log file of the result **/
+Weather today in Boston, Massachusetts, United States is -31.80 degrees Celcius
+Weather today in Boston, Massachusetts, United States is -24.97 degrees Farenheit
+Weather today in Boston, Massachusetts, United States is -24.97 degrees Farenheit
+Weather today in Boston, Massachusetts, United States is -24.97 degrees Farenheit
+Weather today in Boston, Massachusetts, United States is -24.97 degrees Farenheit
+Weather today in Boston, Massachusetts, United States is -31.80 degrees Celcius
+Weather today in Boston, Massachusetts, United States is -31.80 degrees Celcius
+Weather today in Boston, Massachusetts, United States is -24.97 degrees Farenheit
